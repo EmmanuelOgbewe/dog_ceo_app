@@ -1,6 +1,6 @@
 # Dog CEO Flutter Take-Home Project
 
-This project is a Flutter app that interacts with the **Dog CEO API** to fetch and display a list of dog breeds, as well as detailed information (including images) for each breed. It implements clean architecture principles and state management using BLoC.
+This project is a Flutter app that interacts with the **Dog CEO API** to fetch and display a list of dog breeds, as well as detailed information for each breed. It implements clean architecture principles and state management using BLoC.
 
 <img src="https://github.com/user-attachments/assets/e152900b-2f44-422f-8ef5-171573c2e491" alt="Simulator Screenshot" width="400"/>
 
